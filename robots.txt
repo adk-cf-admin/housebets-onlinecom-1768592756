@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://housebets-online.com/
+Sitemap: https://housebets-online.com/sitemap.xml

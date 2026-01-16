@@ -1,0 +1,19 @@
+{
+  "name": "Housebets",
+  "short_name": "Housebets",
+  "theme_color": "",
+  "background_color": "#0B191D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768591815-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
